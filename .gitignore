@@ -1,0 +1,10 @@
+.terraform.*
+**/.terraform/
+**/terraform.tfvars
+**/.tmp/
+*~
+**/tf.plan*
+**/*.tfstate.backup
+config-map-aws-auth*
+.DS_Store
+.idea/
